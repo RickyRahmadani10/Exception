@@ -27,3 +27,11 @@ Test
 Convert String To Number   
 
 ![alt text](https://github.com/RickyRahmadani10/Exception/blob/master/ConvertStringToNumber.PNG)
+
+Praktikum 1  
+
+![alt text](https://github.com/RickyRahmadani10/Exception/blob/master/praktikum1.PNG)
+
+Praktikum 2  
+
+![alt text](https://github.com/RickyRahmadani10/Exception/blob/master/praktikum2.PNG)
