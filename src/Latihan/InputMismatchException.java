@@ -24,5 +24,4 @@ public class InputMismatchException {
         double res=a/c;
         System.out.println(" Hasilnya adalah : "+res);  
     }
-
 }

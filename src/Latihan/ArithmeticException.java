@@ -20,8 +20,9 @@ public class ArithmeticException {
 	int b = console.nextInt();
      
         System.out.println("Enter the value for c");
-        int c = console.nextInt();
+int c = console.nextInt();
         int res=10/(b-c);
         System.out.println(" The result is "+res);  
     }
+
 }
