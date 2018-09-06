@@ -15,7 +15,7 @@ public class ArrayIndexDemo {
     {
         int[] nums = {1, 2, 3};
         nums[2]=4;
-        System.out.println("Nilai pada indeks adalah : "+nums[2]);
+        System.out.println("Nilai pada indeks adalah : "+nums[4]);
         
     }
 
